@@ -1,4 +1,5 @@
 ### Hi there 👋
+ I really enjoy learning languages and frameworks like Nuxtjs,Laravel and Mysql.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eziz)](https://github.com/eziz/github-readme-stats)
 
